@@ -22,4 +22,4 @@ For text file input and text file output:
 
   python text_to_ipa -f infile.txt -o outfile.txt
   
-Or, just play with it in a Jupyter notebook!
+Or, just play with it in <a href="text_to_ipa.ipynb">a Jupyter notebook</a>!

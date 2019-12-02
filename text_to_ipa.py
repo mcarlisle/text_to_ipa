@@ -9,6 +9,8 @@ using CMU's pronouncing dictionary, @wwesantos' Arpabet-to-IPA dictionary, and s
 
 @mcarlisle
 
+modified 20191202
+
 uses 
 * words to arpabet: https://github.com/words/cmu-pronouncing-dictionary, https://github.com/cmusphinx/cmudict
 * arpabet to ipa:   https://github.com/wwesantos/arpabet-to-ipa

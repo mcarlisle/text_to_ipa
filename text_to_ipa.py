@@ -9,7 +9,7 @@ using CMU's pronouncing dictionary, @wwesantos' Arpabet-to-IPA dictionary, and s
 
 @mcarlisle
 
-modified 20191202
+modified 20191203 again, why not
 
 uses 
 * words to arpabet: https://github.com/words/cmu-pronouncing-dictionary, https://github.com/cmusphinx/cmudict
